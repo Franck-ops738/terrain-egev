@@ -1,0 +1,1 @@
+{"name":"egev-one-suite","version":"2.0.0","private":true,"type":"module","engines":{"node":">=24 <25"},"scripts":{"start":"node server.mjs","test":"node --test tests/security.test.mjs"}}
